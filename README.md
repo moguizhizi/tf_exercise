@@ -9,3 +9,7 @@ Multivariate_Linear_Regression.py:
 详见：公众号 月来客栈 
 https://mp.weixin.qq.com/s?__biz=MzAwNjU0NjA3Ng==&mid=2247483848&idx=1&sn=be7383d623cc4af8110d3083c3232180&chksm=9b0af63bac7d7f2de75e2da4698ddb293768418b356adecd6eff35f86c432fd9ccccf135e3ef&mpshare=1&scene=24&srcid=0713nPSTbnJk81xYo6MMTw0t&sharer_sharetime=1594693463860&sharer_shareid=daa74542006076d5bb384fd3b52dc26a#rd
 
+Polynomial_Regression.py：
+详见：公众号 月来客栈 
+https://mp.weixin.qq.com/s?__biz=MzAwNjU0NjA3Ng==&mid=2247483848&idx=1&sn=be7383d623cc4af8110d3083c3232180&chksm=9b0af63bac7d7f2de75e2da4698ddb293768418b356adecd6eff35f86c432fd9ccccf135e3ef&mpshare=1&scene=24&srcid=0713nPSTbnJk81xYo6MMTw0t&sharer_sharetime=1594693463860&sharer_shareid=daa74542006076d5bb384fd3b52dc26a#rd
+
